@@ -424,7 +424,7 @@ The POC requires Python 3 with the `requests` library.
 
 ## 12. Discoverer
 
-[Your name / handle / organization]
+Andrew Bellini - @DigitalAndrew - andrew@digitalandrew.io
 
 ---
 
