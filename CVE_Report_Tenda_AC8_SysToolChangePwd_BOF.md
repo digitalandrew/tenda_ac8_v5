@@ -237,11 +237,11 @@ The MAC is obtained from the ARP table (the attacker already communicated with t
 
 ## 7. Proof of Concept
 
-A complete POC script (`poc_rce.py`) is provided. It automates the full exploitation chain from password store through ROP to root shell login.
+A complete POC script (`poc_SysToolChangePwd_BOF.py`) is provided. It automates the full exploitation chain from password store through ROP to root shell login.
 
 ```bash
 # Full automated exploit: overflow → ROP → telnet → root shell
-python3 poc_rce.py --target http://192.168.0.1
+python3 poc_SysToolChangePwd_BOF.py --target http://192.168.0.1
 ```
 
 **Output (redacted):**
