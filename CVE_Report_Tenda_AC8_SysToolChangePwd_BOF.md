@@ -342,8 +342,7 @@ The POC requires Python 3 with the `requests` library.
 
 ## 12. Discoverer
 
-[Your name / handle / organization]
-
+Andrew Bellini - @DigitalAndrew - andrew@digitalandrew.io
 ---
 
 *Analysis performed using Wairz firmware security assessment platform with Ghidra decompilation.*
