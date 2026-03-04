@@ -311,7 +311,7 @@ The POC requires only Python 3 standard library (no external dependencies).
 
 ## 12. Discoverer
 
-[Your name / handle / organization]
+Andrew Bellini - @DigitalAndrew - andrew@digitalandrew.io
 
 ---
 
